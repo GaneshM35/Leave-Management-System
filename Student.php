@@ -89,7 +89,7 @@ div.tab a:focus, .active {
         </div>
       </div>
     </div>
-
+    <br><br><br><br>
     <div class="container homepage">
       <div class="tab">
         <a href="javascript:void(0)" class="tablinks" onclick="openEvent(event, 'Apply_Leave')">Apply Leave</a>
